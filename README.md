@@ -116,7 +116,7 @@ Se busca generar la posibilidad de una TF con ventaja numerica.
 
 ![](icon/row-82-col-1.jpg) ![](icon/row-136-col-1.jpg) ![](icon/row-58-col-1.jpg) ![](icon/row-103-col-1.jpg)
 
-![](icon/row-147-col-1.jpg) ![](icon/row-144-col-1.jpg) ![](icon/row-117-col-1.jpg) ![](icon/row-3-col-1.jpg)
+![](icon/row-147-col-1.jpg) ![](icon/row-144-col-1.jpg) ![](icon/row-117-col-1.jpg) ![](icon/row-3-col-1.jpg) ![](icon/row-62-col-1.jpg)
 
 ![](icon/row-128-col-1.jpg) ![](icon/row-125-col-1.jpg) ![](icon/row-49-col-1.jpg) ![](icon/row-47-col-1.jpg)
 
@@ -159,7 +159,7 @@ Excelente capacidad para negar objetivos al enemigo, ya sea logrando matarlos o 
 
 ![](icon/row-81-col-1.jpg) ![](icon/row-29-col-1.jpg) ![](icon/row-84-col-1.jpg) ![](icon/row-36-col-1.jpg)
 
-![](icon/row-68-col-1.jpg) ![](icon/row-138-col-1.jpg) ![](icon/row-124-col-1.jpg) ![](icon/row-133-col-1.jpg)
+![](icon/row-68-col-1.jpg) ![](icon/row-138-col-1.jpg) ![](icon/row-124-col-1.jpg) ![](icon/row-133-col-1.jpg) ![](icon/row-114-col-1.jpg)
 
 ![](icon/row-128-col-1.jpg) ![](icon/row-47-col-1.jpg) ![](icon/row-108-col-1.jpg) ![](icon/row-28-col-1.jpg)
 
