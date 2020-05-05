@@ -1,22 +1,33 @@
-# Guia de Metodologia de juego para League of Legends
+<div id='id' />
+
+# Guía de Metodología de juego para League of Legends
 
 **Índice**
-1. [Guia de composiciones de equipos](#id1)
-2. [Guia de MacroGame](#id2)
-3. [Guia de MicroGame](#id3)
-4. [Guia de Top](#id4)
-5. [Guia de Jg](#id5)
-6. [Guia de Mid](#id6)
-7. [Guia de Adc](#id7)
-8. [Guia de Supp](#id8)
+1. [Guía de composiciones de equipos](#id1)
+    1. [Composiciones de All In](#id11)
+    2. [Composiciones de Proteger al Carry](#id12)
+    3. [Composiciones de Cazar al Enemigo](#id13)
+    4. [Composiciones de Pokeo](#id14)
+    5. [Composiciones de Split Push](#id15)
+2. [Guía de MacroGame](#id2)
+3. [Guía de MicroGame](#id3)
+4. [Guía de Top](#id4)
+5. [Guía de Jg](#id5)
+6. [Guía de Mid](#id6)
+7. [Guía de Adc](#id7)
+8. [Guía de Supp](#id8)
 
 <div id='id1' />
 
-## Guia de composiciones de equipos
+## Guía de composiciones de equipos
+[Volver al índice](#id)
 
 Seleccion de campeones durante la fase de pick's. Estrategia que se utiliza para maximizar la capacidad de control de mapa y objetivos del mapa al equipo enemigo.
 
-### Composiciones de ALL IN
+<div id='id11' />
+
+### Composiciones de All In
+[Volver al índice](#id)
 
 Utiles por su potencial de ganar TF's cuando se esta en desventaja. Y para toda jugada se debe mover en equipo; torres, dragones o baron, todos juntos.
 
@@ -58,7 +69,10 @@ Utiles por su potencial de ganar TF's cuando se esta en desventaja. Y para toda 
 
 ![](icon/row-15-col-1.jpg) ![](icon/row-64-col-1.jpg) ![](icon/row-110-col-1.jpg) ![](icon/row-77-col-1.jpg)
 
+<div id='id12' />
+
 ### Composiciones de Proteger al Carry
+[Volver al índice](#id)
 
 Se trata de tener 1 o 2 hiper-carrys con gran dps en el equipo, y el resto del equipo debe pickear personajes para protegerlos.
 
@@ -98,7 +112,10 @@ Se trata de tener 1 o 2 hiper-carrys con gran dps en el equipo, y el resto del e
 
 ![](icon/row-43-col-1.jpg) ![](icon/row-118-col-1.jpg) ![](icon/row-51-col-1.jpg)
 
+<div id='id13' />
+
 ### Composiciones de Cazar al Enemigo
+[Volver al índice](#id)
 
 Utilizada para cazar enemigos que esten separados de sus aliados. Se aprovecha con equipos con muchos errores de posicionamiento.
 Se busca generar la posibilidad de una TF con ventaja numérica.
@@ -139,7 +156,10 @@ Se busca generar la posibilidad de una TF con ventaja numérica.
 
 ![](icon/row-13-col-1.jpg) ![](icon/row-120-col-1.jpg) ![](icon/row-12-col-1.jpg) ![](icon/row-115-col-1.jpg)
 
+<div id='id14' />
+
 ### Composiciones de Pokeo
+[Volver al índice](#id)
 
 Excelente capacidad para negar objetivos al enemigo ya sea logrando matarlos o dejandolos bajos de vida, forzando el recall a base.
 
@@ -157,7 +177,7 @@ Excelente capacidad para negar objetivos al enemigo ya sea logrando matarlos o d
 * Gran control de objetivos.
 
 #### Desventajas:
-* La composición mas difícil de jugar,
+* La composición más difícil de jugar,
 * Débil frente a engage fuertes (ej: Malphite) y
 * Débil contra composiciones con mucho sustane (Soraka o Vladimir).
 
@@ -182,7 +202,10 @@ Excelente capacidad para negar objetivos al enemigo ya sea logrando matarlos o d
 
 ![](icon/row-51-col-1.jpg) ![](icon/row-77-col-1.jpg) ![](icon/row-110-col-1.jpg) ![](icon/row-43-col-1.jpg)
 
+<div id='id15' />
+
 ### Composiciones de Split Push
+[Volver al índice](#id)
 
 Se basan en evitar combates con el enemigo, dedicarse a empujar las lineas individualmente y generar duelos 1v1.
 
@@ -225,23 +248,24 @@ Se basan en evitar combates con el enemigo, dedicarse a empujar las lineas indiv
 
 <div id='id2' />
 
-## Guia de MacroGame
+## Guía de MacroGame
+[Volver al índice](#id)
 
 Es la estrategia que se utiliza durante la partida para maximizar los recursos y ganancias con el minimo riesgo posible.
 
-Esto es fundamental, ya que LoL es un juego de economia
+Esto es fundamental, ya que LoL es un juego de economía.
 
-### Prioridades de linea
+### Prioridades de línea
 
 Se define como la toma de decisiones y ejecucion de acciones que generar un reaccion en el contrario.
 
 #### Se logra cuando
 
-* Se puede pushear la linea mas rapido que el contrario,
-* Se tienen mas kill potetial,
+* Se puede pushear la línea más rápido que el contrario,
+* Se tienen más kill potetial,
 * Mejor posicionamiento,
 * Ventaja de summoners o
-* Cualquier condicion propia que fuerce al enemigo a responder.
+* Cualquier condición propia que fuerce al enemigo a responder.
 
 Las prioridades de linea se buscan dependiendo de la Win-condiion que se tiene.
 
@@ -274,7 +298,7 @@ La Win-condition del early depende de tu prioridad de linea, y como planteaste l
 
 Lo normal es que el early dure hasta el min 10, en terminos de nivel. Y es cuando el jg debe aprovechar la realizacion de gankeos para dar ventajas a los picks de mid game.
 
-### Transicion
+### Transición
 
 Es la etapa previa al mid game. Se trata de ir por la primera torreta, para posteriormente romper el primer anillo de torretas.
 
@@ -294,31 +318,36 @@ Para aquellas composiciones con picos de poder atrasados o que llegan tarde en l
 
 Para aquellas composiciones de early y mid game, lo mejor es forzar objetivos para adquirir recursos que ayuden a finiquitar la partida lo antes posible.
 
-La partida no dene durar mas de 30 minutos.
+La partida no debe durar más de 30 minutos.
 
 Ejemplo:
 
-
 <div id='id3' />
 
-# Guia de MicroGame
+# Guía de MicroGame
+[Volver al índice](#id)
 
 <div id='id4' />
 
-# Guia de Top
+# Guía de Top
+[Volver al índice](#id)
 
 <div id='id5' />
 
-# Guia de Jg
+# Guía de Jg
+[Volver al índice](#id)
 
 <div id='id6' />
 
-# Guia de Mid
+# Guía de Mid
+[Volver al índice](#id)
 
 <div id='id7' />
 
-# Guia de Adc
+# Guía de Adc
+[Volver al índice](#id)
 
 <div id='id8' />
 
-# Guia de Supp
+# Guía de Supp
+[Volver al índice](#id)
